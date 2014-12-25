@@ -15,8 +15,8 @@ AD:
   - Andorra
   - アンドラ
   translations:
-    en: Andorrew
-    it: Andorrabg
+    en: Andorre
+    it: Andorra
     de: Andorra
     fr: Andorre
     es:
@@ -33,8 +33,8 @@ AD:
   - 9
   national_prefix: None
   number: '020'
-  region: Europe
-  subregion: Southern Europe
+  region: '100'
+  subregion: '104'
   un_locode: AD
   languages:
   - ca
