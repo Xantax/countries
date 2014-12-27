@@ -5,6 +5,7 @@ AD:
   alpha3: AND
   country_code: '376'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: AND
   latitude: 42 30 N
@@ -24,6 +25,40 @@ AD:
     nl: Andorra
     ru: Андорра
     ar: اندورا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -53,6 +88,7 @@ AE:
   alpha3: ARE
   country_code: '971'
   currency: AED
+  currency_symbol: د.إ
   international_prefix: '00'
   ioc: UAE
   latitude: 24 00 N
@@ -74,7 +110,41 @@ AE:
     ja: アラブ首長国連邦
     nl: Verenigde Arabische Emiraten
     ru: Объединенные Арабские Эмираты
-    ar: الامارات العربية المتحدة
+    ar: الامارات العربية المتحدة    
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -96,6 +166,7 @@ AF:
   alpha3: AFG
   country_code: '93'
   currency: AFN
+  currency_symbol: ؋
   international_prefix: '00'
   ioc: AFG
   latitude: 33 00 N
@@ -114,7 +185,41 @@ AF:
     ja: アフガニスタン
     nl: Afghanistan
     ru: Афганистан
-    ar: افغانستان
+    ar: افغانستان    
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -126,6 +231,7 @@ AF:
   subregion: Southern Asia
   un_locode: AF
   languages:
+  - en
   - ps
   - uz
   - tk
@@ -137,6 +243,7 @@ AG:
   alpha3: ATG
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc: ANT
   latitude: 17 03 N
@@ -158,6 +265,41 @@ AG:
     ja: アンティグア・バーブーダ
     nl: Antigua en Barbuda
     ru: Антигуа и Барбуда
+    ar: أنتيغوا وبربودا    
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -177,6 +319,7 @@ AI:
   alpha3: AIA
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc:
   latitude: 18 15 N
@@ -194,6 +337,41 @@ AI:
     ja: アンギラ
     nl: Anguilla
     ru: Ангилья
+    ar: أنغويلا    
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -213,6 +391,7 @@ AL:
   alpha3: ALB
   country_code: '355'
   currency: ALL
+  currency_symbol: LEK
   international_prefix: '00'
   ioc: ALB
   latitude: 41 00 N
@@ -233,7 +412,41 @@ AL:
     ja: アルバニア
     nl: Albanië
     ru: Албания
-    ar: البانيا
+    ar: البانيا    
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -255,6 +468,7 @@ AM:
   alpha3: ARM
   country_code: '374'
   currency: AMD
+  currency_symbol:
   international_prefix: '00'
   ioc: ARM
   latitude: 40 00 N
@@ -276,6 +490,40 @@ AM:
     nl: Armenië
     ru: Армения
     ar: ارمينيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -286,8 +534,8 @@ AM:
   subregion: Western Asia
   un_locode: AM
   languages:
-  - hy
   - ru
+  - hy
   nationality: Armenian
   postal_code: true
 AN:
@@ -296,6 +544,7 @@ AN:
   alpha3: ANT
   country_code: '599'
   currency: ANG
+  currency_symbol: ƒ
   international_prefix: '00'
   ioc: AHO
   latitude: ''
@@ -317,6 +566,41 @@ AN:
     ja: オランダ領アンティル
     nl: Nederlandse Antillen
     ru: Нидерландские Антильские Острова
+    ar: جزر الأنتيل الهولندية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -338,6 +622,7 @@ AO:
   alpha3: AGO
   country_code: '244'
   currency: AOA
+  currency_symbol: Kz
   international_prefix: '00'
   ioc: ANG
   latitude: 12 30 S
@@ -356,6 +641,40 @@ AO:
     nl: Angola
     ru: Ангола
     ar: انغولا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -374,7 +693,8 @@ AQ:
   alpha2: AQ
   alpha3: ATA
   country_code: '672'
-  currency:
+  currency: USD
+  currency_symbol: $
   international_prefix: ''
   ioc:
   latitude: 90 00 S
@@ -395,6 +715,41 @@ AQ:
     ja: 南極
     nl: Antarctica
     ru: Антарктида
+    ar: أنتاركتيكا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -420,6 +775,7 @@ AR:
   alpha3: ARG
   country_code: '54'
   currency: ARS
+  currency_symbol: $
   international_prefix: '00'
   ioc: ARG
   latitude: 34 00 S
@@ -441,6 +797,40 @@ AR:
     nl: Argentinië
     ru: Аргентина
     ar: الارجنتين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -462,6 +852,7 @@ AS:
   alpha3: ASM
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: ASA
   latitude: 14 20 S
@@ -483,6 +874,41 @@ AS:
     ja: アメリカ領サモア
     nl: Amerikaans Samoa
     ru: Американское Самоа
+    ar: ساموا الأمريكية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -510,6 +936,7 @@ AT:
   alpha3: AUT
   country_code: '43'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: AUT
   latitude: 47 20 N
@@ -531,6 +958,40 @@ AT:
     nl: Oostenrijk
     ru: Австрия
     ar: النمسا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 1
   - 2
@@ -566,6 +1027,7 @@ AU:
   alpha3: AUS
   country_code: '61'
   currency: AUD
+  currency_symbol: $
   international_prefix: '0011'
   ioc: AUS
   latitude: 27 00 S
@@ -586,6 +1048,41 @@ AU:
     ja: オーストラリア
     nl: Australië
     ru: Австралия
+    ar: أستراليا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -605,6 +1102,7 @@ AW:
   alpha3: ABW
   country_code: '297'
   currency: AWG
+  currency_symbol: ƒ
   international_prefix: '00'
   ioc: ARU
   latitude: 12 30 N
@@ -622,6 +1120,41 @@ AW:
     ja: アルバ
     nl: Aruba
     ru: Аруба
+    ar: آروبا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -640,7 +1173,8 @@ AX:
   alpha2: AX
   alpha3: ALA
   country_code: '358'
-  currency:
+  currency: EUR
+  currency_symbol: €
   international_prefix: ''
   ioc:
   latitude: ''
@@ -660,6 +1194,41 @@ AX:
     ja: オーランド諸島
     nl: Ålandeilanden
     ru: Аландские острова
+    ar: جزر آلاند
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -677,6 +1246,7 @@ AZ:
   alpha3: AZE
   country_code: '994'
   currency: AZN
+  currency_symbol: ман
   international_prefix: '810'
   ioc: AZE
   latitude: 40 30 N
@@ -698,6 +1268,41 @@ AZ:
     ja: アゼルバイジャン
     nl: Azerbeidzjan
     ru: Азербайджан
+    ar: أذربيجان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -726,6 +1331,7 @@ BA:
   alpha3: BIH
   country_code: '387'
   currency: BAM
+  currency_symbol: KM
   international_prefix: '00'
   ioc: BIH
   latitude: 44 00 N
@@ -747,6 +1353,41 @@ BA:
     ja: ボスニア・ヘルツェゴビナ
     nl: Bosnië en Herzegovina
     ru: Босния и Герцеговина
+    ar: البوسنة والهرسك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -768,6 +1409,7 @@ BB:
   alpha3: BRB
   country_code: '1'
   currency: BBD
+  currency_symbol: $
   international_prefix: '011'
   ioc: BAR
   latitude: 13 10 N
@@ -786,6 +1428,41 @@ BB:
     ja: バルバドス
     nl: Barbados
     ru: Барбадос
+    ar: بربادوس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -805,6 +1482,7 @@ BD:
   alpha3: BGD
   country_code: '880'
   currency: BDT
+  currency_symbol: ৳
   international_prefix: '00'
   ioc: BAN
   latitude: 24 00 N
@@ -823,6 +1501,41 @@ BD:
     ja: バングラデシュ
     nl: Bangladesh
     ru: Бангладеш
+    ar: بنجلاديش
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -833,6 +1546,7 @@ BD:
   subregion: Southern Asia
   un_locode: BD
   languages:
+  - en
   - bn
   nationality: Bangladeshi
   postal_code: true
@@ -849,6 +1563,7 @@ BE:
   alpha3: BEL
   country_code: '32'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: BEL
   latitude: 50 50 N
@@ -870,6 +1585,41 @@ BE:
     ja: ベルギー
     nl: België
     ru: Бельгия
+    ar: بلجيكا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -893,6 +1643,7 @@ BF:
   alpha3: BFA
   country_code: '226'
   currency: XOF
+  currency_symbol: franc
   international_prefix: '00'
   ioc: BUR
   latitude: 13 00 N
@@ -910,6 +1661,41 @@ BF:
     ja: ブルキナファソ
     nl: Burkina Faso
     ru: Буркина-Фасо
+    ar: بوركينا فاسو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -937,6 +1723,7 @@ BG:
   alpha3: BGR
   country_code: '359'
   currency: BGN
+  currency_symbol: лв
   international_prefix: '00'
   ioc: BUL
   latitude: 43 00 N
@@ -957,6 +1744,41 @@ BG:
     ja: ブルガリア
     nl: Bulgarije
     ru: Болгария
+    ar: بلغاريا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -986,6 +1808,7 @@ BH:
   alpha3: BHR
   country_code: '973'
   currency: BHD
+  currency_symbol: .د.ب
   international_prefix: '00'
   ioc: BRN
   latitude: 26 00 N
@@ -1005,6 +1828,41 @@ BH:
     ja: バーレーン
     nl: Bahrein
     ru: Бахрейн
+    ar: البحرين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1024,6 +1882,7 @@ BI:
   alpha3: BDI
   country_code: '257'
   currency: BIF
+  currency_symbol: FBu
   international_prefix: '00'
   ioc: BDI
   latitude: 3 30 S
@@ -1041,6 +1900,41 @@ BI:
     ja: ブルンジ
     nl: Burundi
     ru: Бурунди
+    ar: بوروندي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1061,6 +1955,7 @@ BJ:
   alpha3: BEN
   country_code: '229'
   currency: XOF
+  currency_symbol: 
   international_prefix: '00'
   ioc: BEN
   latitude: 9 30 N
@@ -1079,6 +1974,41 @@ BJ:
     ja: ベナン
     nl: Benin
     ru: Бенин
+    ar: بنين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1097,7 +2027,8 @@ BL:
   alpha2: BL
   alpha3: BLM
   country_code: '590'
-  currency:
+  currency: EUR
+  currency_symbol: €
   international_prefix: ''
   ioc:
   latitude: 17 90 N
@@ -1116,6 +2047,41 @@ BL:
     ja: サン・バルテルミー
     nl: Saint Barthélemy
     ru: Сен-Бартельми
+    ar: سان بارتليمي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -1133,6 +2099,7 @@ BM:
   alpha3: BMU
   country_code: '1'
   currency: BMD
+  currency_symbol: $
   international_prefix: '011'
   ioc: BER
   latitude: 32 20 N
@@ -1152,6 +2119,41 @@ BM:
     ja: バミューダ
     nl: Bermuda
     ru: Бермудские острова
+    ar: برمودا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -1171,6 +2173,7 @@ BN:
   alpha3: BRN
   country_code: '673'
   currency: BND
+  currency_symbol: $
   international_prefix: '00'
   ioc: BRU
   latitude: 4 30 N
@@ -1188,6 +2191,41 @@ BN:
     ja: ブルネイ・ダルサラーム
     nl: Brunei
     ru: Бруней-Даруссалам
+    ar: بروناي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1207,6 +2245,7 @@ BO:
   alpha3: BOL
   country_code: '591'
   currency: BOB
+  currency_symbol: $b
   international_prefix: '0010'
   ioc: BOL
   latitude: 17 00 S
@@ -1226,6 +2265,41 @@ BO:
     ja: ボリビア多民族国
     nl: Bolivia
     ru: Боливия
+    ar: بوليفيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1247,6 +2321,7 @@ BQ:
   alpha3: BES
   country_code: '599'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   latitude: ''
   longitude: ''
@@ -1259,9 +2334,47 @@ BQ:
   translations:
     en: Bonaire, Sint Eustatius and Saba
     de: Bonaire, Sint Eustatius und Saba
+    it: 
     fr: Pays-Bas caribéens
+    es: 
     ru: Бонэйр, Синт-Эстатиус и Саба
     ja: ボネール、シント・ユースタティウスおよびサバ
+    nl: 
+    ar: هولندا الكاريبية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1289,6 +2402,7 @@ BR:
   alpha3: BRA
   country_code: '55'
   currency: BRL
+  currency_symbol: R$
   international_prefix: '0014'
   ioc: BRA
   latitude: 10 00 S
@@ -1311,6 +2425,40 @@ BR:
     nl: Brazilië
     ru: Бразилия
     ar: البرازيل
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1330,6 +2478,7 @@ BS:
   alpha3: BHS
   country_code: '1'
   currency: BSD
+  currency_symbol: $
   international_prefix: '011'
   ioc: BAH
   latitude: 24 15 N
@@ -1348,6 +2497,41 @@ BS:
     ja: バハマ
     nl: Bahama’s
     ru: Багамские острова
+    ar: الباهاما
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -1367,6 +2551,7 @@ BT:
   alpha3: BTN
   country_code: '975'
   currency: BTN
+  currency_symbol: Nu.
   international_prefix: '00'
   ioc: BHU
   latitude: 27 30 N
@@ -1386,6 +2571,41 @@ BT:
     ja: ブータン
     nl: Bhutan
     ru: Бутан
+    ar: بوتان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1397,6 +2617,7 @@ BT:
   subregion: Southern Asia
   un_locode: BT
   languages:
+  - en
   - dz
   nationality: Bhutanese
   postal_code: true
@@ -1406,6 +2627,7 @@ BV:
   alpha3: BVT
   country_code: ''
   currency: NOK
+  currency_symbol: kr
   international_prefix: ''
   ioc:
   latitude: 54 26 S
@@ -1425,6 +2647,41 @@ BV:
     ja: ブーベ島
     nl: Bouveteiland
     ru: Остров Буве
+    ar: جزيرة بوفيه
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -1432,7 +2689,8 @@ BV:
   region: ''
   subregion: ''
   un_locode:
-  languages: []
+  languages:
+  - no
   nationality: ''
   postal_code: true
 BW:
@@ -1441,6 +2699,7 @@ BW:
   alpha3: BWA
   country_code: '267'
   currency: BWP
+  currency_symbol: P
   international_prefix: '00'
   ioc: BOT
   latitude: 22 00 S
@@ -1458,6 +2717,41 @@ BW:
     ja: ボツワナ
     nl: Botswana
     ru: Ботсвана
+    ar: بتسوانا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1478,6 +2772,7 @@ BY:
   alpha3: BLR
   country_code: '375'
   currency: BYR
+  currency_symbol: p.
   international_prefix: '810'
   ioc: BLR
   latitude: 53 00 N
@@ -1499,6 +2794,41 @@ BY:
     ja: ベラルーシ
     nl: Wit-Rusland
     ru: Белоруссия
+    ar: روسيا البيضاء
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1509,8 +2839,8 @@ BY:
   subregion: Eastern Europe
   un_locode: BY
   languages:
-  - be
   - ru
+  - be
   nationality: Belarusian
   postal_code: true
 BZ:
@@ -1519,6 +2849,7 @@ BZ:
   alpha3: BLZ
   country_code: '501'
   currency: BZD
+  currency_symbol: BZ$
   international_prefix: '00'
   ioc: BIZ
   latitude: 17 15 N
@@ -1537,6 +2868,41 @@ BZ:
     ja: ベリーズ
     nl: Belize
     ru: Белиз
+    ar: بليز
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1564,6 +2930,7 @@ CA:
   alpha3: CAN
   country_code: '1'
   currency: CAD
+  currency_symbol: $
   international_prefix: '011'
   ioc: CAN
   latitude: 60 00 N
@@ -1584,6 +2951,40 @@ CA:
     nl: Canada
     ru: Канада
     ar: كندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -1604,6 +3005,7 @@ CC:
   alpha3: CCK
   country_code: '61'
   currency: AUD
+  currency_symbol: $
   international_prefix: '0011'
   ioc:
   latitude: 12 30 S
@@ -1623,6 +3025,41 @@ CC:
     ja: ココス（キーリング）諸島
     nl: Cocoseilanden
     ru: Кокосовые острова
+    ar: جزر كوكوس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1641,7 +3078,8 @@ CD:
   alpha2: CD
   alpha3: COD
   country_code: '243'
-  currency:
+  currency: CDF
+  currency_symbol: FC
   international_prefix: '00'
   ioc: COD
   latitude: 0 00 N
@@ -1662,6 +3100,41 @@ CD:
     ja: コンゴ民主共和国
     nl: Congo [DRC]
     ru: Конго (. Респ.)
+    ar: الكونغو - كينشاسا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1685,6 +3158,7 @@ CF:
   alpha3: CAF
   country_code: '236'
   currency: XAF
+  currency_symbol: FCFA
   international_prefix: '00'
   ioc: CAF
   latitude: 7 00 N
@@ -1706,6 +3180,41 @@ CF:
     ja: 中央アフリカ共和国
     nl: Centraal-Afrikaanse Republiek
     ru: Центральноафриканская Республика
+    ar: جمهورية أفريقيا الوسطى
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1725,7 +3234,8 @@ CG:
   alpha2: CG
   alpha3: COG
   country_code: '242'
-  currency:
+  currency: XAF
+  currency_symbol: FCFA
   international_prefix: '00'
   ioc: CGO
   latitude: 1 00 S
@@ -1745,6 +3255,41 @@ CG:
     ja: コンゴ共和国
     nl: Congo [Republiek]
     ru: Конго
+    ar: الكونغو - برازافيل
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1772,6 +3317,7 @@ CH:
   alpha3: CHE
   country_code: '41'
   currency: CHF
+  currency_symbol: CHF
   international_prefix: '00'
   ioc: SUI
   latitude: 47 00 N
@@ -1793,6 +3339,41 @@ CH:
     ja: スイス
     nl: Zwitserland
     ru: Швейцария
+    ar: سويسرا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1815,6 +3396,7 @@ CI:
   alpha3: CIV
   country_code: '225'
   currency: XOF
+  currency_symbol: CFA
   international_prefix: '00'
   ioc: CIV
   latitude: 8 00 N
@@ -1834,6 +3416,41 @@ CI:
     ja: コートジボワール
     nl: Ivoorkust
     ru: Кот-д'Ивуар
+    ar: ساحل العاج
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1853,6 +3470,7 @@ CK:
   alpha3: COK
   country_code: '682'
   currency: NZD
+  currency_symbol: $
   international_prefix: '00'
   ioc: COK
   latitude: 21 14 S
@@ -1874,6 +3492,41 @@ CK:
     ja: クック諸島
     nl: Cookeilanden
     ru: Острова Кука
+    ar: جزر كوك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1893,6 +3546,7 @@ CL:
   alpha3: CHL
   country_code: '56'
   currency: CLP
+  currency_symbol: $
   international_prefix: '00'
   ioc: CHI
   latitude: 30 00 S
@@ -1912,6 +3566,40 @@ CL:
     nl: Chili
     ru: Чили
     ar: تشيلي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1932,6 +3620,7 @@ CM:
   alpha3: CMR
   country_code: '237'
   currency: XAF
+  currency_symbol: FCFA
   international_prefix: '00'
   ioc: CMR
   latitude: 6 00 N
@@ -1954,6 +3643,40 @@ CM:
     nl: Kameroen
     ru: Камерун
     ar: الكاميرون
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1981,6 +3704,7 @@ CN:
   alpha3: CHN
   country_code: '86'
   currency: CNY
+  currency_symbol: ¥
   international_prefix: '00'
   ioc: CHN
   latitude: 35 00 N
@@ -2000,6 +3724,40 @@ CN:
     nl: China
     ru: Китай
     ar: الصين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2014,7 +3772,7 @@ CN:
   subregion: Eastern Asia
   un_locode: CN
   languages:
-  - zh
+  - zh-CN
   nationality: Chinese
   postal_code: true
 CO:
@@ -2023,6 +3781,7 @@ CO:
   alpha3: COL
   country_code: '57'
   currency: COP
+  currency_symbol: $
   international_prefix: '005'
   ioc: COL
   latitude: 4 00 N
@@ -2043,6 +3802,40 @@ CO:
     nl: Colombia
     ru: Колумбия
     ar: كولومبيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2063,6 +3856,7 @@ CR:
   alpha3: CRI
   country_code: '506'
   currency: CRC
+  currency_symbol: ₡
   international_prefix: '00'
   ioc: CRC
   latitude: 10 00 N
@@ -2080,6 +3874,41 @@ CR:
     ja: コスタリカ
     nl: Costa Rica
     ru: Коста-Рика
+    ar: كوستاريكا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2099,6 +3928,7 @@ CU:
   alpha3: CUB
   country_code: '53'
   currency: CUP
+  currency_symbol: ₱
   international_prefix: '119'
   ioc: CUB
   latitude: 21 30 N
@@ -2117,6 +3947,41 @@ CU:
     ja: キューバ
     nl: Cuba
     ru: Куба
+    ar: كوبا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2136,6 +4001,7 @@ CV:
   alpha3: CPV
   country_code: '238'
   currency: CVE
+  currency_symbol: $
   international_prefix: '00'
   ioc: CPV
   latitude: 16 00 N
@@ -2157,6 +4023,41 @@ CV:
     ja: カーボベルデ
     nl: Kaapverdië
     ru: Кабо-Верде
+    ar: الرأس الأخضر
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2176,6 +4077,7 @@ CW:
   alpha3: CUW
   country_code: '599'
   currency: ANG
+  currency_symbol: ƒ
   international_prefix: '00'
   latitude: ''
   longitude: ''
@@ -2185,11 +4087,47 @@ CW:
   - キュラソー島
   translations:
     en: Curaçao
+    es:
     de: Curaçao
     fr: Curaçao
     ja: キュラソー島
     nl: Curaçao
     ru: Кюрасао
+    ar: كوراساو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2209,6 +4147,7 @@ CX:
   alpha3: CXR
   country_code: '61'
   currency: AUD
+  currency_symbol: $
   international_prefix: '0011'
   ioc:
   latitude: 10 30 S
@@ -2228,6 +4167,41 @@ CX:
     ja: クリスマス島
     nl: Christmaseiland
     ru: Остров Рождества
+    ar: جزيرة الكريسماس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: '0'
@@ -2247,6 +4221,7 @@ CY:
   alpha3: CYP
   country_code: '357'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: CYP
   latitude: 35 00 N
@@ -2267,6 +4242,41 @@ CY:
     ja: キプロス
     nl: Cyprus
     ru: Кипр
+    ar: قبرص
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2296,6 +4306,7 @@ CZ:
   alpha3: CZE
   country_code: '420'
   currency: CZK
+  currency_symbol: Kč
   international_prefix: '00'
   ioc: CZE
   latitude: 49 45 N
@@ -2317,6 +4328,41 @@ CZ:
     ja: チェコ
     nl: Tsjechië
     ru: Чешская Республика
+    ar: جمهورية التشيك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2345,6 +4391,7 @@ DE:
   alpha3: DEU
   country_code: '49'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: GER
   latitude: 51 00 N
@@ -2367,6 +4414,40 @@ DE:
     nl: Duitsland
     ru: Германия
     ar: المانيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   - 3
@@ -2395,6 +4476,7 @@ DJ:
   alpha3: DJI
   country_code: '253'
   currency: DJF
+  currency_symbol: Fdj
   international_prefix: '00'
   ioc: DJI
   latitude: 11 30 N
@@ -2413,6 +4495,41 @@ DJ:
     ja: ジブチ
     nl: Djibouti
     ru: Джибути
+    ar: جيبوتي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2442,6 +4559,7 @@ DK:
   alpha3: DNK
   country_code: '45'
   currency: DKK
+  currency_symbol: kr
   international_prefix: '00'
   ioc: DEN
   latitude: 56 00 N
@@ -2464,6 +4582,40 @@ DK:
     nl: Denemarken
     ru: Дания
     ar: الدنمارك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2484,6 +4636,7 @@ DM:
   alpha3: DMA
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc: DMA
   latitude: 15 25 N
@@ -2502,6 +4655,40 @@ DM:
     nl: Dominica
     ru: Доминика
     ar: الدومينيكان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -2521,6 +4708,7 @@ DO:
   alpha3: DOM
   country_code: '1'
   currency: DOP
+  currency_symbol: RD$
   international_prefix: '011'
   ioc: DOM
   latitude: 19 00 N
@@ -2542,6 +4730,41 @@ DO:
     ja: ドミニカ共和国
     nl: Dominicaanse Republiek
     ru: Доминиканская Республика
+    ar: جمهورية الدومينيك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -2561,6 +4784,7 @@ DZ:
   alpha3: DZA
   country_code: '213'
   currency: DZD
+  currency_symbol: دج
   international_prefix: '00'
   ioc: ALG
   latitude: 28 00 N
@@ -2583,6 +4807,40 @@ DZ:
     nl: Algerije
     ru: Алжир
     ar: الجزائر
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2602,6 +4860,7 @@ EC:
   alpha3: ECU
   country_code: '593'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   ioc: ECU
   latitude: 2 00 S
@@ -2621,6 +4880,40 @@ EC:
     nl: Ecuador
     ru: Эквадор
     ar: الاكوادور
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2641,6 +4934,7 @@ EE:
   alpha3: EST
   country_code: '372'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: EST
   latitude: 59 00 N
@@ -2660,6 +4954,41 @@ EE:
     ja: エストニア
     nl: Estland
     ru: Эстония
+    ar: أستونيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2688,6 +5017,7 @@ EG:
   alpha3: EGY
   country_code: '20'
   currency: EGP
+  currency_symbol: £
   international_prefix: '00'
   ioc: EGY
   latitude: 27 00 N
@@ -2710,6 +5040,40 @@ EG:
     nl: Egypte
     ru: Египет
     ar: مصر
+    az: 
+    bg: 
+    bs: 
+    ca:
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2729,6 +5093,7 @@ EH:
   alpha3: ESH
   country_code: '212'
   currency: MAD
+  currency_symbol: د.م.
   international_prefix: ''
   ioc:
   latitude: 24 30 N
@@ -2749,6 +5114,41 @@ EH:
     ja: 西サハラ
     nl: Westelijke Sahara
     ru: Западная сахара
+    ar: الصحراء الغربية
+    az: 
+    bg: 
+    bs: 
+    ca:
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -2767,6 +5167,7 @@ ER:
   alpha3: ERI
   country_code: '291'
   currency: ETB
+  currency_symbol: Br
   international_prefix: '00'
   ioc: ERI
   latitude: 15 00 N
@@ -2786,6 +5187,40 @@ ER:
     nl: Eritrea
     ru: Эритрея
     ar: اريتيريا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2814,6 +5249,7 @@ ES:
   alpha3: ESP
   country_code: '34'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: ESP
   latitude: 40 00 N
@@ -2836,6 +5272,40 @@ ES:
     nl: Spanje
     ru: Испания
     ar: اسبانيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2856,6 +5326,7 @@ ET:
   alpha3: ETH
   country_code: '251'
   currency: ETB
+  currency_symbol: Br
   international_prefix: '00'
   ioc: ETH
   latitude: 8 00 N
@@ -2878,6 +5349,40 @@ ET:
     nl: Ethiopië
     ru: Эфиопия
     ar: اثيوبيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2888,6 +5393,7 @@ ET:
   subregion: Eastern Africa
   un_locode: ET
   languages:
+  - en
   - am
   nationality: Ethiopian
   postal_code: true
@@ -2904,6 +5410,7 @@ FI:
   alpha3: FIN
   country_code: '358'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: FIN
   latitude: 64 00 N
@@ -2925,6 +5432,40 @@ FI:
     nl: Finland
     ru: Финляндия
     ar: فنلندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2946,6 +5487,7 @@ FJ:
   alpha3: FJI
   country_code: '679'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   ioc: FIJ
   latitude: 18 00 S
@@ -2966,6 +5508,40 @@ FJ:
     nl: Fiji
     ru: Фиджи
     ar: فيجي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -2988,6 +5564,7 @@ FK:
   alpha3: FLK
   country_code: '500'
   currency: FKP
+  currency_symbol: £
   international_prefix: '00'
   ioc: 
   latitude: 51 45 S
@@ -3009,6 +5586,41 @@ FK:
     ja: フォークランド（マルビナス）諸島
     nl: Falklandeilanden [Islas Malvinas]
     ru: Фолклендские острова
+    ar: جزر فوكلاند
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3028,6 +5640,7 @@ FM:
   alpha3: FSM
   country_code: '691'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: FSM
   latitude: 6 55 N
@@ -3048,6 +5661,41 @@ FM:
     ja: ミクロネシア連邦
     nl: Micronesië
     ru: Микронезия
+    ar: ميكرونيزيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3067,6 +5715,7 @@ FO:
   alpha3: FRO
   country_code: '298'
   currency: DKK
+  currency_symbol: kr
   international_prefix: '00'
   ioc: FRO
   latitude: 62 00 N
@@ -3088,6 +5737,41 @@ FO:
     ja: フェロー諸島
     nl: Faeröer
     ru: Фарерские Острова
+    ar: جزر فارو
+    az: 
+    bg: 
+    bs: 
+    ca:
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3098,6 +5782,7 @@ FO:
   subregion: Northern Europe
   un_locode: FO
   languages:
+  - da
   - fo
   nationality: Faroese
   postal_code: true
@@ -3114,6 +5799,7 @@ FR:
   alpha3: FRA
   country_code: '33'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: FRA
   latitude: 46 00 N
@@ -3136,6 +5822,40 @@ FR:
     nl: Frankrijk
     ru: Франция
     ar: فرنسا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 1
   national_number_lengths:
@@ -3157,6 +5877,7 @@ GA:
   alpha3: GAB
   country_code: '241'
   currency: XAF
+  currency_symbol: FCFA
   international_prefix: '00'
   ioc: GAB
   latitude: 1 00 S
@@ -3176,6 +5897,41 @@ GA:
     ja: ガボン
     nl: Gabon
     ru: Габон
+    ar: الجابون
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3208,6 +5964,7 @@ GB:
   alpha3: GBR
   country_code: '44'
   currency: GBP
+  currency_symbol: £
   international_prefix: '00'
   ioc: GBR
   latitude: 54 00 N
@@ -3230,6 +5987,40 @@ GB:
     nl: Verenigd Koninkrijk
     ru: Соединенное Королевство
     ar: المملكة المتحدة
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3251,6 +6042,7 @@ GD:
   alpha3: GRD
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc: GRN
   latitude: 12 07 N
@@ -3268,6 +6060,41 @@ GD:
     ja: グレナダ
     nl: Grenada
     ru: Гренада
+    ar: غرينادا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3287,6 +6114,7 @@ GE:
   alpha3: GEO
   country_code: '995'
   currency: GEL
+  currency_symbol: ლარი
   international_prefix: '810'
   ioc: GEO
   latitude: 42 00 N
@@ -3307,6 +6135,41 @@ GE:
     ja: グルジア
     nl: Georgië
     ru: Грузия
+    ar: جورجيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3326,6 +6189,7 @@ GF:
   alpha3: GUF
   country_code: '594'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: 
   latitude: 4 00 N
@@ -3346,6 +6210,41 @@ GF:
     ja: フランス領ギアナ
     nl: Frans-Guyana
     ru: Французская Гвиана
+    ar: غويانا الفرنسية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3364,6 +6263,7 @@ GG:
   alpha3: GGY
   country_code: '44'
   currency: GBP
+  currency_symbol: £
   international_prefix: ''
   ioc:
   latitude: 49 28 N
@@ -3385,6 +6285,41 @@ GG:
     ja: ガーンジー
     nl: Guernsey
     ru: Гернси и Олдерни
+    ar: غيرنزي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -3403,6 +6338,7 @@ GH:
   alpha3: GHA
   country_code: '233'
   currency: GHS
+  currency_symbol: ¢
   international_prefix: '00'
   ioc: GHA
   latitude: 8 00 N
@@ -3420,6 +6356,41 @@ GH:
     ja: ガーナ
     nl: Ghana
     ru: Гана
+    ar: غانا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3442,6 +6413,7 @@ GI:
   alpha3: GIB
   country_code: '350'
   currency: GIP
+  currency_symbol: £
   international_prefix: '00'
   ioc:
   latitude: 36 08 N
@@ -3459,6 +6431,41 @@ GI:
     ja: ジブラルタル
     nl: Gibraltar
     ru: Гибралтар
+    ar: جبل طارق
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3485,6 +6492,7 @@ GL:
   alpha3: GRL
   country_code: '299'
   currency: DKK
+  currency_symbol: kr
   international_prefix: 009
   ioc:
   latitude: 72 00 N
@@ -3505,6 +6513,41 @@ GL:
     ja: グリーンランド
     nl: Groenland
     ru: Гренландия
+    ar: غرينلاند
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3515,6 +6558,8 @@ GL:
   subregion: Northern America
   un_locode: GL
   languages:
+  - da
+  - en
   - kl
   nationality: Greenlandic
   postal_code: true
@@ -3524,6 +6569,7 @@ GM:
   alpha3: GMB
   country_code: '220'
   currency: GMD
+  currency_symbol: D
   international_prefix: '00'
   ioc: GAM
   latitude: 13 28 N
@@ -3541,6 +6587,41 @@ GM:
     ja: ガンビア
     nl: Gambia
     ru: Гамбия
+    ar: غامبيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3560,6 +6641,7 @@ GN:
   alpha3: GIN
   country_code: '224'
   currency: GNF
+  currency_symbol: FG
   international_prefix: '00'
   ioc: GUI
   latitude: 11 00 N
@@ -3579,6 +6661,41 @@ GN:
     ja: ギニア
     nl: Guinee
     ru: Гвинея
+    ar: غينيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3599,6 +6716,7 @@ GP:
   alpha3: GLP
   country_code: '590'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc:
   latitude: ''
@@ -3617,6 +6735,41 @@ GP:
     ja: グアドループ
     nl: Guadeloupe
     ru: Гваделупа
+    ar: جوادلوب
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3635,7 +6788,8 @@ GQ:
   alpha2: GQ
   alpha3: GNQ
   country_code: '240'
-  currency:
+  currency: XAF
+  currency_symbol: FCFA
   international_prefix: '00'
   ioc: GEQ
   latitude: 2 00 N
@@ -3657,6 +6811,41 @@ GQ:
     ja: 赤道ギニア
     nl: Equatoriaal-Guinea
     ru: Экваториальная Гвинея
+    ar: غينيا الإستوائية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3684,6 +6873,7 @@ GR:
   alpha3: GRC
   country_code: '30'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: GRE
   latitude: 39 00 N
@@ -3705,6 +6895,41 @@ GR:
     ja: ギリシャ
     nl: Griekenland
     ru: Греция
+    ar: اليونان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3724,7 +6949,8 @@ GS:
   alpha2: GS
   alpha3: SGS
   country_code: '500'
-  currency:
+  currency: GBP
+  currency_symbol: £
   international_prefix: ''
   ioc:
   latitude: 54 30 S
@@ -3744,6 +6970,41 @@ GS:
     ja: サウスジョージア・サウスサンドウィッチ諸島
     nl: Zuid-Georgia en Zuidelijke Sandwicheilanden
     ru: Южная Джорджия и Южные Сандвичевы острова
+    ar: جورجيا الجنوبية وجزر ساندويتش الجنوبية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -3761,6 +7022,7 @@ GT:
   alpha3: GTM
   country_code: '502'
   currency: GTQ
+  currency_symbol: Q
   international_prefix: '00'
   ioc: GUA
   latitude: 15 30 N
@@ -3778,6 +7040,41 @@ GT:
     ja: グアテマラ
     nl: Guatemala
     ru: Гватемала
+    ar: غواتيمالا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3797,6 +7094,7 @@ GU:
   alpha3: GUM
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: GUM
   latitude: 13 28 N
@@ -3814,6 +7112,41 @@ GU:
     ja: グアム
     nl: Guam
     ru: ГУАМ
+    ar: غوام
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -3835,6 +7168,7 @@ GW:
   alpha3: GNB
   country_code: '245'
   currency: XOF
+  currency_symbol: CFA
   international_prefix: '00'
   ioc: GBS
   latitude: 12 00 N
@@ -3854,6 +7188,41 @@ GW:
     ja: ギニアビサウ
     nl: Guinee-Bissau
     ru: Гвинея-Бисау
+    ar: غينيا بيساو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3873,6 +7242,7 @@ GY:
   alpha3: GUY
   country_code: '592'
   currency: GYD
+  currency_symbol: G$
   international_prefix: '00'
   ioc: GUY
   latitude: 5 00 N
@@ -3890,6 +7260,41 @@ GY:
     ja: ガイアナ
     nl: Guyana
     ru: Гайана
+    ar: غيانا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3917,6 +7322,7 @@ HK:
   alpha3: HKG
   country_code: '852'
   currency: HKD
+  currency_symbol: $
   international_prefix: '001'
   ioc: HKG
   latitude: 22 15 N
@@ -3935,6 +7341,41 @@ HK:
     ja: 香港
     nl: Hongkong
     ru: Гонконг
+    ar: هونغ كونغ الصينية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -3946,7 +7387,7 @@ HK:
   un_locode: HK
   languages:
   - en
-  - zh
+  - zh-CN
   nationality: Chinese
   postal_code: false
 HM:
@@ -3955,6 +7396,7 @@ HM:
   alpha3: HMD
   country_code: ''
   currency: AUD
+  currency_symbol: $
   international_prefix: ''
   ioc:
   latitude: 53 06 S
@@ -3974,6 +7416,41 @@ HM:
     ja: ハード島とマクドナルド諸島
     nl: Heard- en McDonaldeilanden
     ru: Острова Херд и Макдональд
+    ar: جزيرة هيرد وجزر ماكدونالد
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -3991,6 +7468,7 @@ HN:
   alpha3: HND
   country_code: '504'
   currency: HNL
+  currency_symbol: L
   international_prefix: '00'
   ioc: HON
   latitude: 15 00 N
@@ -4008,6 +7486,41 @@ HN:
     ja: ホンジュラス
     nl: Honduras
     ru: Гондурас
+    ar: هندوراس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4035,6 +7548,7 @@ HR:
   alpha3: HRV
   country_code: '385'
   currency: HRK
+  currency_symbol: kn
   international_prefix: '00'
   ioc: CRO
   latitude: 45 10 N
@@ -4056,6 +7570,41 @@ HR:
     ja: クロアチア
     nl: Kroatië
     ru: Хорватия
+    ar: كرواتيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4076,6 +7625,7 @@ HT:
   alpha3: HTI
   country_code: '509'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   ioc: HAI
   latitude: 19 00 N
@@ -4094,6 +7644,41 @@ HT:
     ja: ハイチ
     nl: Haïti
     ru: Гаити
+    ar: هايتي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4123,6 +7708,7 @@ HU:
   alpha3: HUN
   country_code: '36'
   currency: HUF
+  currency_symbol: Ft
   international_prefix: '00'
   ioc: HUN
   latitude: 47 00 N
@@ -4144,6 +7730,41 @@ HU:
     ja: ハンガリー
     nl: Hongarije
     ru: Венгрия
+    ar: هنغاريا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4174,6 +7795,7 @@ ID:
   alpha3: IDN
   country_code: '62'
   currency: IDR
+  currency_symbol: Rp
   international_prefix: '001'
   ioc: INA
   latitude: 5 00 S
@@ -4194,6 +7816,41 @@ ID:
     ja: インドネシア
     nl: Indonesië
     ru: Индонезия
+    ar: أندونيسيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4223,6 +7880,7 @@ IE:
   alpha3: IRL
   country_code: '353'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: IRL
   latitude: 53 00 N
@@ -4245,6 +7903,40 @@ IE:
     nl: Ierland
     ru: Ирландия
     ar: ايرلندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4273,6 +7965,7 @@ IL:
   alpha3: ISR
   country_code: '972'
   currency: ILS
+  currency_symbol: ₪
   international_prefix: '00'
   ioc: ISR
   latitude: 31 30 N
@@ -4292,6 +7985,40 @@ IL:
     nl: Israël
     ru: Израиль
     ar: اسرائيل
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4304,6 +8031,7 @@ IL:
   subregion: Western Asia
   un_locode: IL
   languages:
+  - en
   - he
   - ar
   nationality: Israeli
@@ -4314,6 +8042,7 @@ IM:
   alpha3: IMN
   country_code: '44'
   currency: IMP
+  currency_symbol: £
   international_prefix: ''
   ioc:
   latitude: 54 15 N
@@ -4334,6 +8063,41 @@ IM:
     ja: マン島
     nl: Isle of Man
     ru: Остров Мэн
+    ar: جزيرة مان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -4361,6 +8125,7 @@ IN:
   alpha3: IND
   country_code: '91'
   currency: INR
+  currency_symbol: Rs
   international_prefix: '00'
   ioc: IND
   latitude: 20 00 N
@@ -4381,6 +8146,40 @@ IN:
     nl: India
     ru: Индия
     ar: الهند
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4401,6 +8200,7 @@ IO:
   alpha3: IOT
   country_code: '246'
   currency: USD
+  currency_symbol: $
   international_prefix: ''
   ioc: 
   latitude: 6 00 S
@@ -4420,6 +8220,41 @@ IO:
     ja: イギリス領インド洋地域
     nl: Britse Gebieden in de Indische Oceaan
     ru: Британская территория в Индийском океане
+    ar: الإقليم البريطاني في المحيط الهندي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -4437,6 +8272,7 @@ IQ:
   alpha3: IRQ
   country_code: '964'
   currency: IQD
+  currency_symbol: ع.د
   international_prefix: '00'
   ioc: IRQ
   latitude: 33 00 N
@@ -4456,6 +8292,40 @@ IQ:
     nl: Irak
     ru: Ирак
     ar: العراق
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4477,6 +8347,7 @@ IR:
   alpha3: IRN
   country_code: '98'
   currency: IRR
+  currency_symbol: ﷼
   international_prefix: '00'
   ioc: IRI
   latitude: 32 00 N
@@ -4494,6 +8365,41 @@ IR:
     ja: イラン・イスラム共和国
     nl: Iran
     ru: Иран
+    ar: إيران
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4520,6 +8426,7 @@ IS:
   alpha3: ISL
   country_code: '354'
   currency: ISK
+  currency_symbol: kr
   international_prefix: '00'
   ioc: ISL
   latitude: 65 00 N
@@ -4541,6 +8448,41 @@ IS:
     ja: アイスランド
     nl: IJsland
     ru: Исландия
+    ar: أيسلندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4553,6 +8495,7 @@ IS:
   subregion: Northern Europe
   un_locode: IS
   languages:
+  - en
   - is
   nationality: Icelander
   postal_code: true
@@ -4569,6 +8512,7 @@ IT:
   alpha3: ITA
   country_code: '39'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: ITA
   latitude: 42 50 N
@@ -4591,6 +8535,40 @@ IT:
     nl: Italië
     ru: Италия
     ar: ايطاليا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -4611,6 +8589,7 @@ JE:
   alpha3: JEY
   country_code: '44'
   currency: JEP
+  currency_symbol: £
   international_prefix: ''
   ioc: 
   latitude: 49 15 N
@@ -4628,6 +8607,41 @@ JE:
     ja: ジャージー
     nl: Jersey
     ru: Джерси
+    ar: جيرسي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -4646,6 +8660,7 @@ JM:
   alpha3: JAM
   country_code: '1'
   currency: JMD
+  currency_symbol: J$
   international_prefix: '011'
   ioc: JAM
   latitude: 18 15 N
@@ -4665,6 +8680,41 @@ JM:
     ja: ジャマイカ
     nl: Jamaica
     ru: Ямайка
+    ar: جامايكا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -4691,6 +8741,7 @@ JO:
   alpha3: JOR
   country_code: '962'
   currency: JOD
+  currency_symbol: دينار
   international_prefix: '00'
   ioc: JOR
   latitude: 31 00 N
@@ -4713,6 +8764,40 @@ JO:
     nl: Jordanië
     ru: Иордания
     ar: الاردن
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4740,6 +8825,7 @@ JP:
   alpha3: JPN
   country_code: '81'
   currency: JPY
+  currency_symbol: ¥
   international_prefix: '010'
   ioc: JPN
   latitude: 36 00 N
@@ -4760,6 +8846,40 @@ JP:
     nl: Japan
     ru: Япония
     ar: اليابان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4780,6 +8900,7 @@ KE:
   alpha3: KEN
   country_code: '254'
   currency: KES
+  currency_symbol: KSh
   international_prefix: '000'
   ioc: KEN
   latitude: 1 00 N
@@ -4798,6 +8919,41 @@ KE:
     ja: ケニア
     nl: Kenia
     ru: Кения
+    ar: كينيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4818,6 +8974,7 @@ KG:
   alpha3: KGZ
   country_code: '996'
   currency: KGS
+  currency_symbol: лв
   international_prefix: '00'
   ioc: KGZ
   latitude: 41 00 N
@@ -4839,6 +8996,41 @@ KG:
     ja: キルギス
     nl: Kirgizië
     ru: Кыргызстан
+    ar: قرغيزستان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4849,8 +9041,8 @@ KG:
   subregion: Central Asia
   un_locode: KG
   languages:
-  - ky
   - ru
+  - ky
   nationality: Kirghiz
   postal_code: true
 KH:
@@ -4859,6 +9051,7 @@ KH:
   alpha3: KHM
   country_code: '855'
   currency: KHR
+  currency_symbol: ៛
   international_prefix: '00'
   ioc: CAM
   latitude: 13 00 N
@@ -4880,6 +9073,41 @@ KH:
     ja: カンボジア
     nl: Cambodja
     ru: Камбоджа
+    ar: كمبوديا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4890,7 +9118,9 @@ KH:
   subregion: South-Eastern Asia
   un_locode: KH
   languages:
+  - en
   - km
+  - fr
   nationality: Cambodian
   postal_code: true
 KI:
@@ -4899,6 +9129,7 @@ KI:
   alpha3: KIR
   country_code: '686'
   currency: AUD
+  currency_symbol: $
   international_prefix: '00'
   ioc: KIR
   latitude: 1 25 N
@@ -4916,6 +9147,41 @@ KI:
     ja: キリバス
     nl: Kiribati
     ru: Кирибати
+    ar: كيريباتي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4935,6 +9201,7 @@ KM:
   alpha3: COM
   country_code: '269'
   currency: KMF
+  currency_symbol: CF
   international_prefix: '00'
   ioc: COM
   latitude: 12 10 S
@@ -4955,6 +9222,41 @@ KM:
     ja: コモロ
     nl: Comoren
     ru: Союз Коморских островов
+    ar: جزر القمر
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -4975,6 +9277,7 @@ KN:
   alpha3: KNA
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc: SKN
   latitude: 17 20 N
@@ -4996,6 +9299,41 @@ KN:
     ja: セントクリストファー・ネイビス
     nl: Saint Kitts en Nevis
     ru: Федерация Сент-Китс и Невис
+    ar: سانت كيتس ونيفيس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5015,6 +9353,7 @@ KP:
   alpha3: PRK
   country_code: '850'
   currency: KPW
+  currency_symbol: ₩
   international_prefix: '00'
   ioc: PRK
   latitude: 40 00 N
@@ -5037,6 +9376,40 @@ KP:
     nl: Noord-Korea
     ru: Северная Корея
     ar: كوريا الشمالية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5066,6 +9439,7 @@ KR:
   alpha3: KOR
   country_code: '82'
   currency: KRW
+  currency_symbol: ₩
   international_prefix: '001'
   ioc: KOR
   latitude: 37 00 N
@@ -5088,6 +9462,40 @@ KR:
     nl: Zuid-Korea
     ru: Южная Корея
     ar: كوريا الجنوبية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5117,6 +9525,7 @@ KW:
   alpha3: KWT
   country_code: '965'
   currency: KWD
+  currency_symbol: د.ك
   international_prefix: '00'
   ioc: KUW
   latitude: 29 30 N
@@ -5137,6 +9546,40 @@ KW:
     nl: Koeweit
     ru: Кувейт
     ar: الكويت
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5156,6 +9599,7 @@ KY:
   alpha3: CYM
   country_code: '1'
   currency: KYD
+  currency_symbol: $
   international_prefix: '011'
   ioc: CAY
   latitude: 19 30 N
@@ -5177,6 +9621,41 @@ KY:
     ja: ケイマン諸島
     nl: Caymaneilanden
     ru: Каймановы о-ва
+    ar: جزر الكايمن
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5196,6 +9675,7 @@ KZ:
   alpha3: KAZ
   country_code: '7'
   currency: KZT
+  currency_symbol: лв
   international_prefix: '810'
   ioc: KAZ
   latitude: 48 00 N
@@ -5217,6 +9697,40 @@ KZ:
     nl: Kazachstan
     ru: Казахстан
     ar: كازاخستان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5227,8 +9741,8 @@ KZ:
   subregion: Central Asia
   un_locode: KZ
   languages:
-  - kk
   - ru
+  - kk
   nationality: Kazakhstani
   postal_code: true
 LA:
@@ -5237,6 +9751,7 @@ LA:
   alpha3: LAO
   country_code: '856'
   currency: LAK
+  currency_symbol: ₭
   international_prefix: '00'
   ioc: LAO
   latitude: 18 00 N
@@ -5255,6 +9770,40 @@ LA:
     nl: Laos
     ru: Лаос
     ar: لاوس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5265,6 +9814,7 @@ LA:
   subregion: South-Eastern Asia
   un_locode: LA
   languages:
+  - fr
   - lo
   nationality: Laotian
   postal_code: true
@@ -5281,6 +9831,7 @@ LB:
   alpha3: LBN
   country_code: '961'
   currency: LBP
+  currency_symbol: £
   international_prefix: '00'
   ioc: LIB
   latitude: 33 50 N
@@ -5302,6 +9853,40 @@ LB:
     nl: Libanon
     ru: Ливан
     ar: لبنان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5322,6 +9907,7 @@ LC:
   alpha3: LCA
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc: LCA
   latitude: 13 53 N
@@ -5341,6 +9927,41 @@ LC:
     ja: セントルシア
     nl: Saint Lucia
     ru: Сент-Люсия
+    ar: سانت لوسيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -5360,6 +9981,7 @@ LI:
   alpha3: LIE
   country_code: '423'
   currency: CHF
+  currency_symbol: CHF
   international_prefix: '00'
   ioc: LIE
   latitude: 47 16 N
@@ -5377,6 +9999,41 @@ LI:
     ja: リヒテンシュタイン
     nl: Liechtenstein
     ru: Лихтенштейн
+    ar: ليختنشتاين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5396,6 +10053,7 @@ LK:
   alpha3: LKA
   country_code: '94'
   currency: LKR
+  currency_symbol: Rs
   international_prefix: '00'
   ioc: SRI
   latitude: 7 00 N
@@ -5414,6 +10072,40 @@ LK:
     nl: Sri Lanka
     ru: Шри-Ланка
     ar: سيريلانكا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5424,6 +10116,7 @@ LK:
   subregion: Southern Asia
   un_locode: LK
   languages:
+  - en
   - si
   - ta
   nationality: Sri Lankan
@@ -5434,6 +10127,7 @@ LR:
   alpha3: LBR
   country_code: '231'
   currency: LRD
+  currency_symbol: $
   international_prefix: '00'
   ioc: LBR
   latitude: 6 30 N
@@ -5451,6 +10145,41 @@ LR:
     ja: リベリア
     nl: Liberia
     ru: Либерия
+    ar: ليبيريا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5473,6 +10202,7 @@ LS:
   alt_currency: ZAR
   country_code: '266'
   currency: LSL
+  currency_symbol: L
   international_prefix: '00'
   ioc: LES
   latitude: 29 30 S
@@ -5490,6 +10220,41 @@ LS:
     ja: レソト
     nl: Lesotho
     ru: Лесото
+    ar: ليسوتو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5510,6 +10275,7 @@ LT:
   alpha3: LTU
   country_code: '370'
   currency: LTL
+  currency_symbol: Lt
   international_prefix: '00'
   ioc: LTU
   latitude: 56 00 N
@@ -5531,6 +10297,41 @@ LT:
     ja: リトアニア
     nl: Litouwen
     ru: Литва
+    ar: ليتوانيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5558,6 +10359,7 @@ LU:
   alpha3: LUX
   country_code: '352'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: LUX
   latitude: 49 45 N
@@ -5577,6 +10379,41 @@ LU:
     ja: ルクセンブルク
     nl: Luxemburg
     ru: Люксембург
+    ar: لوكسمبورغ
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5599,6 +10436,7 @@ LV:
   alpha3: LVA
   country_code: '371'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: LAT
   latitude: 57 00 N
@@ -5620,6 +10458,41 @@ LV:
     ja: ラトビア
     nl: Letland
     ru: Латвия
+    ar: لاتفيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5640,6 +10513,7 @@ LY:
   alpha3: LBY
   country_code: '218'
   currency: LYD
+  currency_symbol: ل.د
   international_prefix: '00'
   ioc: LBA
   latitude: 25 00 N
@@ -5662,6 +10536,40 @@ LY:
     nl: Libië
     ru: Ливия
     ar: ليبيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5682,6 +10590,7 @@ MA:
   alpha3: MAR
   country_code: '212'
   currency: MAD
+  currency_symbol: د.م.
   international_prefix: '00'
   ioc: MAR
   latitude: 32 00 N
@@ -5703,6 +10612,40 @@ MA:
     nl: Marokko
     ru: Марокко
     ar: المغرب
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5722,6 +10665,7 @@ MC:
   alpha3: MCO
   country_code: '377'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: MON
   latitude: 43 44 N
@@ -5740,6 +10684,41 @@ MC:
     ja: モナコ
     nl: Monaco
     ru: Монако
+    ar: موناكو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5760,6 +10739,7 @@ MD:
   alpha3: MDA
   country_code: '373'
   currency: MDL
+  currency_symbol: L
   international_prefix: '00'
   ioc: MDA
   latitude: 47 00 N
@@ -5782,6 +10762,41 @@ MD:
     ja: モルドバ共和国
     nl: Moldavië
     ru: Молдова
+    ar: مولدافيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5801,6 +10816,7 @@ ME:
   alpha3: MNE
   country_code: '382'
   currency: EUR
+  currency_symbol: €
   international_prefix: '99'
   ioc: MNE
   latitude: 42 30 N
@@ -5819,6 +10835,41 @@ ME:
     ja: モンテネグロ
     nl: Montenegro
     ru: Черногория
+    ar: الجبل الأسود
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5841,6 +10892,7 @@ MF:
   alpha3: MAF
   country_code: '590'
   currency: EUR
+  currency_symbol: €
   international_prefix: ''
   ioc: 
   latitude: 18 05 N
@@ -5859,6 +10911,41 @@ MF:
     ja: サン・マルタン（フランス領）
     nl: Saint-Martin
     ru: Сен-Мартен
+    ar: سانت مارتن
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -5877,7 +10964,8 @@ MG:
   alpha2: MG
   alpha3: MDG
   country_code: '261'
-  currency: 
+  currency: MGA
+  currency_symbol: Ar
   international_prefix: '00'
   ioc: MAD
   latitude: 20 00 S
@@ -5897,6 +10985,41 @@ MG:
     ja: マダガスカル
     nl: Madagaskar
     ru: Мадагаскар
+    ar: مدغشقر
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5917,6 +11040,7 @@ MH:
   alpha3: MHL
   country_code: '692'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   ioc: MHL
   latitude: 9 00 N
@@ -5938,6 +11062,41 @@ MH:
     ja: マーシャル諸島
     nl: Marshalleilanden
     ru: Маршалловы острова
+    ar: جزر المارشال
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -5965,6 +11124,7 @@ MK:
   alpha3: MKD
   country_code: '389'
   currency: MKD
+  currency_symbol: ден
   international_prefix: '00'
   ioc: MKD
   latitude: 41 50 N
@@ -5985,6 +11145,41 @@ MK:
     ja: マケドニア旧ユーゴスラビア共和国
     nl: Macedonië [FYROM]
     ru: Македония
+    ar: مقدونيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6005,6 +11200,7 @@ ML:
   alpha3: MLI
   country_code: '223'
   currency: XOF
+  currency_symbol: CFA
   international_prefix: '00'
   ioc: MLI
   latitude: 17 00 N
@@ -6022,6 +11218,41 @@ ML:
     ja: マリ
     nl: Mali
     ru: Мали
+    ar: مالي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6041,6 +11272,7 @@ MM:
   alpha3: MMR
   country_code: '95'
   currency: MMK
+  currency_symbol: K
   international_prefix: '00'
   ioc: MYA
   latitude: 22 00 N
@@ -6058,6 +11290,41 @@ MM:
     ja: ミャンマー
     nl: Myanmar
     ru: Мьянма
+    ar: ميانمار -بورما
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6069,6 +11336,7 @@ MM:
   subregion: South-Eastern Asia
   un_locode: MM
   languages:
+  - en
   - my
   nationality: Myanmarian
   postal_code: true
@@ -6078,6 +11346,7 @@ MN:
   alpha3: MNG
   country_code: '976'
   currency: MNT
+  currency_symbol: ₮
   international_prefix: '001'
   ioc: MGL
   latitude: 46 00 N
@@ -6098,6 +11367,41 @@ MN:
     ja: モンゴル
     nl: Mongolië
     ru: Монголия
+    ar: منغوليا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6111,6 +11415,7 @@ MN:
   subregion: Eastern Asia
   un_locode: MN
   languages:
+  - ru
   - mn
   nationality: Mongolian
   postal_code: true
@@ -6119,7 +11424,8 @@ MO:
   alpha2: MO
   alpha3: MAC
   country_code: '853'
-  currency: 
+  currency: MOP
+  currency_symbol: MOP$
   international_prefix: '00'
   ioc: 
   latitude: 22 10 N
@@ -6137,6 +11443,41 @@ MO:
     ja: マカオ
     nl: Macao
     ru: Макао
+    ar: مكاو الصينية (منطقة إدارية خاصة)
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6147,7 +11488,7 @@ MO:
   subregion: Eastern Asia
   un_locode: MO
   languages:
-  - zh
+  - zh-TW
   - pt
   nationality: Chinese
   postal_code: false
@@ -6157,6 +11498,7 @@ MP:
   alpha3: MNP
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: 
   latitude: 15 12 N
@@ -6178,6 +11520,41 @@ MP:
     ja: 北マリアナ諸島
     nl: Noordelijke Marianeneilanden
     ru: Северные Марианские Острова
+    ar: جزر ماريانا الشمالية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -6198,6 +11575,7 @@ MQ:
   alpha3: MTQ
   country_code: '596'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: 
   latitude: ''
@@ -6216,6 +11594,41 @@ MQ:
     ja: マルティニーク
     nl: Martinique
     ru: Мартиника
+    ar: مارتينيك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -6235,6 +11648,7 @@ MR:
   alpha3: MRT
   country_code: '222'
   currency: MRO
+  currency_symbol: UM
   international_prefix: '00'
   ioc: MTN
   latitude: 20 00 N
@@ -6255,6 +11669,41 @@ MR:
     ja: モーリタニア
     nl: Mauritanië
     ru: Мавритания
+    ar: موريتانيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6275,6 +11724,7 @@ MS:
   alpha3: MSR
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc: 
   latitude: 16 45 N
@@ -6292,6 +11742,41 @@ MS:
     ja: モントセラト
     nl: Montserrat
     ru: Монтсеррат
+    ar: مونتسرات
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -6311,6 +11796,7 @@ MT:
   alpha3: MLT
   country_code: '356'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: MLT
   latitude: 35 50 N
@@ -6329,6 +11815,41 @@ MT:
     ja: マルタ
     nl: Malta
     ru: Мальта
+    ar: مالطا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6339,8 +11860,8 @@ MT:
   subregion: Southern Europe
   un_locode: MT
   languages:
-  - mt
   - en
+  - mt
   nationality: Maltese
   eu_member: true
   postal_code: true
@@ -6350,6 +11871,7 @@ MU:
   alpha3: MUS
   country_code: '230'
   currency: MUR
+  currency_symbol: Rs
   international_prefix: '020'
   ioc: MRI
   latitude: 20 17 S
@@ -6369,6 +11891,41 @@ MU:
     ja: モーリシャス
     nl: Mauritius
     ru: Маврикий
+    ar: موريشيوس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6388,6 +11945,7 @@ MV:
   alpha3: MDV
   country_code: '960'
   currency: MVR
+  currency_symbol: Rf
   international_prefix: '00'
   ioc: MDV
   latitude: 3 15 N
@@ -6408,6 +11966,41 @@ MV:
     ja: モルディブ
     nl: Maldiven
     ru: Мальдивы
+    ar: جزر المالديف
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6418,6 +12011,7 @@ MV:
   subregion: Southern Asia
   un_locode: MV
   languages:
+  - en
   - dv
   nationality: Maldivan
   postal_code: true
@@ -6427,6 +12021,7 @@ MW:
   alpha3: MWI
   country_code: '265'
   currency: MWK
+  currency_symbol: MK
   international_prefix: '00'
   ioc: MAW
   latitude: 13 30 S
@@ -6444,6 +12039,41 @@ MW:
     ja: マラウイ
     nl: Malawi
     ru: Малави
+    ar: ملاوي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6471,6 +12101,7 @@ MX:
   alpha3: MEX
   country_code: '52'
   currency: MXN
+  currency_symbol: $
   international_prefix: '00'
   ioc: MEX
   latitude: 23 00 N
@@ -6491,6 +12122,41 @@ MX:
     ja: メキシコ
     nl: Mexico
     ru: Мексика
+    ar: المكسيك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6512,6 +12178,7 @@ MY:
   alpha3: MYS
   country_code: '60'
   currency: MYR
+  currency_symbol: RM
   international_prefix: '00'
   ioc: MAS
   latitude: 2 30 N
@@ -6532,6 +12199,41 @@ MY:
     ja: マレーシア
     nl: Maleisië
     ru: Малайзия
+    ar: ماليزيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6552,6 +12254,7 @@ MZ:
   alpha3: MOZ
   country_code: '258'
   currency: MZN
+  currency_symbol: MT
   international_prefix: '00'
   ioc: MOZ
   latitude: 18 15 S
@@ -6570,6 +12273,41 @@ MZ:
     ja: モザンビーク
     nl: Mozambique
     ru: Мозамбик
+    ar: موزمبيق
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6591,6 +12329,7 @@ NA:
   alt_currency: ZAR
   country_code: '264'
   currency: NAD
+  currency_symbol: $
   international_prefix: '00'
   ioc: NAM
   latitude: 22 00 S
@@ -6610,6 +12349,41 @@ NA:
     ja: ナミビア
     nl: Namibië
     ru: Намибия
+    ar: ناميبيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6631,6 +12405,7 @@ NC:
   alpha3: NCL
   country_code: '687'
   currency: XPF
+  currency_symbol: F
   international_prefix: '00'
   ioc: 
   latitude: 21 30 S
@@ -6652,6 +12427,41 @@ NC:
     ja: ニューカレドニア
     nl: Nieuw-Caledonië
     ru: Новая Каледония
+    ar: كاليدونيا الجديدة
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6671,6 +12481,7 @@ NE:
   alpha3: NER
   country_code: '227'
   currency: XOF
+  currency_symbol: CFA
   international_prefix: '00'
   ioc: NIG
   latitude: 16 00 N
@@ -6689,6 +12500,41 @@ NE:
     ja: ニジェール
     nl: Niger
     ru: Нигер
+    ar: النيجر
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6708,6 +12554,7 @@ NF:
   alpha3: NFK
   country_code: '672'
   currency: AUD
+  currency_symbol: $
   international_prefix: '00'
   ioc: 
   latitude: 29 02 S
@@ -6729,6 +12576,41 @@ NF:
     ja: ノーフォーク島
     nl: Norfolkeiland
     ru: Остров Норфолк
+    ar: جزيرة نورفوك
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6748,6 +12630,7 @@ NG:
   alpha3: NGA
   country_code: '234'
   currency: NGN
+  currency_symbol: ₦
   international_prefix: 009
   ioc: NGR
   latitude: 10 00 N
@@ -6767,6 +12650,41 @@ NG:
     ja: ナイジェリア
     nl: Nigeria
     ru: Нигерия
+    ar: نيجيريا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6787,6 +12705,7 @@ NI:
   alpha3: NIC
   country_code: '505'
   currency: NIO
+  currency_symbol: C$
   international_prefix: '00'
   ioc: NCA
   latitude: 13 00 N
@@ -6804,6 +12723,41 @@ NI:
     ja: ニカラグア
     nl: Nicaragua
     ru: Никарагуа
+    ar: نيكاراغوا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6830,6 +12784,7 @@ NL:
   alpha3: NLD
   country_code: '31'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: NED
   latitude: 52 30 N
@@ -6851,6 +12806,41 @@ NL:
     ja: オランダ
     nl: Nederland
     ru: Нидерланды
+    ar: هولندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6878,6 +12868,7 @@ NL:
   alpha3: NOR
   country_code: '47'
   currency: NOK
+  currency_symbol: kr
   international_prefix: '00'
   ioc: NOR
   latitude: 62 00 N
@@ -6899,6 +12890,41 @@ NL:
     ja: ノルウェー
     nl: Noorwegen
     ru: Норвегия
+    ar: النرويج
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6918,6 +12944,7 @@ NP:
   alpha3: NPL
   country_code: '977'
   currency: NPR
+  currency_symbol: Rs
   international_prefix: '00'
   ioc: NEP
   latitude: 28 00 N
@@ -6937,6 +12964,41 @@ NP:
     ja: ネパール
     nl: Nepal
     ru: Непал
+    ar: نيبال
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6948,6 +13010,7 @@ NP:
   subregion: Southern Asia
   un_locode: NP
   languages:
+  - en
   - ne
   nationality: Nepalese
   postal_code: true
@@ -6957,6 +13020,7 @@ NR:
   alpha3: NRU
   country_code: '674'
   currency: AUD
+  currency_symbol: $
   international_prefix: '00'
   ioc: NRU
   latitude: 0 32 S
@@ -6974,6 +13038,41 @@ NR:
     ja: ナウル
     nl: Nauru
     ru: Науру
+    ar: ناورو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -6993,7 +13092,8 @@ NU:
   alpha2: NU
   alpha3: NIU
   country_code: '683'
-  currency: 
+  currency: NZD
+  currency_symbol: $
   international_prefix: '00'
   ioc: 
   latitude: 19 02 S
@@ -7011,6 +13111,41 @@ NU:
     ja: ニウエ
     nl: Niue
     ru: Ниуэ
+    ar: نيوي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7039,6 +13174,7 @@ NZ:
   alpha3: NZL
   country_code: '64'
   currency: NZD
+  currency_symbol: $
   international_prefix: '00'
   ioc: NZL
   latitude: 41 00 S
@@ -7060,6 +13196,41 @@ NZ:
     ja: ニュージーランド
     nl: Nieuw-Zeeland
     ru: Новая Зеландия
+    ar: نيوزيلاندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 1
   national_number_lengths:
@@ -7089,6 +13260,7 @@ OM:
   alpha3: OMN
   country_code: '968'
   currency: OMR
+  currency_symbol: ﷼
   international_prefix: '00'
   ioc: OMA
   latitude: 21 00 N
@@ -7107,6 +13279,41 @@ OM:
     ja: オマーン
     nl: Oman
     ru: Оман
+    ar: عُمان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7127,6 +13334,7 @@ PA:
   alt_currency: USD
   country_code: '507'
   currency: PAB
+  currency_symbol: B/.
   international_prefix: '00'
   ioc: PAN
   latitude: 9 00 N
@@ -7145,6 +13353,41 @@ PA:
     ja: パナマ
     nl: Panama
     ru: Панама
+    ar: بنما
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7164,6 +13407,7 @@ PE:
   alpha3: PER
   country_code: '51'
   currency: PEN
+  currency_symbol: S/.
   international_prefix: '00'
   ioc: PER
   latitude: 10 00 S
@@ -7183,6 +13427,41 @@ PE:
     ja: ペルー
     nl: Peru
     ru: Перу
+    ar: بيرو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7203,6 +13482,7 @@ PF:
   alpha3: PYF
   country_code: '689'
   currency: XPF
+  currency_symbol: F
   international_prefix: '00'
   ioc: 
   latitude: 15 00 S
@@ -7224,6 +13504,41 @@ PF:
     ja: フランス領ポリネシア
     nl: Frans-Polynesië
     ru: Французская Полинезия
+    ar: بولينيزيا الفرنسية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7243,6 +13558,7 @@ PG:
   alpha3: PNG
   country_code: '675'
   currency: PGK
+  currency_symbol: K
   international_prefix: '05'
   ioc: PNG
   latitude: 6 00 S
@@ -7264,6 +13580,41 @@ PG:
     ja: パプアニューギニア
     nl: Papoea-Nieuw-Guinea
     ru: Папуа-Новая Гвинея
+    ar: بابوا غينيا الجديدة
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7290,6 +13641,7 @@ PH:
   alpha3: PHL
   country_code: '63'
   currency: PHP
+  currency_symbol: Php
   international_prefix: '00'
   ioc: PHI
   latitude: 13 00 N
@@ -7310,6 +13662,41 @@ PH:
     ja: フィリピン
     nl: Filipijnen
     ru: Филиппины
+    ar: الفلبين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7322,8 +13709,8 @@ PH:
   subregion: South-Eastern Asia
   un_locode: PH
   languages:
-  - tl
   - en
+  - tl
   nationality: Filipino
   postal_code: true
 PK:
@@ -7332,6 +13719,7 @@ PK:
   alpha3: PAK
   country_code: '92'
   currency: PKR
+  currency_symbol: Rs
   international_prefix: '00'
   ioc: PAK
   latitude: 30 00 N
@@ -7350,6 +13738,41 @@ PK:
     ja: パキスタン
     nl: Pakistan
     ru: Пакистан
+    ar: باكستان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7380,6 +13803,7 @@ PL:
   alpha3: POL
   country_code: '48'
   currency: PLN
+  currency_symbol: zł
   international_prefix: '00'
   ioc: POL
   latitude: 52 00 N
@@ -7400,6 +13824,41 @@ PL:
     ja: ポーランド
     nl: Polen
     ru: Польша
+    ar: بولندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7420,6 +13879,7 @@ PM:
   alpha3: SPM
   country_code: '508'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: 
   latitude: 46 50 N
@@ -7441,6 +13901,41 @@ PM:
     ja: サンピエール島・ミクロン島
     nl: Saint Pierre en Miquelon
     ru: Сен-Пьер и Микелон
+    ar: سانت بيير وميكولون
+    az: 
+    bg: 
+    bs: 
+    ca:
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7460,6 +13955,7 @@ PN:
   alpha3: PCN
   country_code: ''
   currency: NZD
+  currency_symbol: $
   international_prefix: '00'
   ioc: 
   latitude: 25 04 S
@@ -7478,6 +13974,41 @@ PN:
     ja: ピトケアン
     nl: Pitcairneilanden
     ru: Острова Питкэрн
+    ar: جزر بيتكيرن
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths:
   - 9
@@ -7496,6 +14027,7 @@ PR:
   alpha3: PRI
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: PUR
   latitude: 18 15 N
@@ -7514,6 +14046,40 @@ PR:
     nl: Puerto Rico
     ru: Пуэрто-Рико
     ar: بورتو ريكو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -7533,7 +14099,8 @@ PS:
   alpha2: PS
   alpha3: PSE
   country_code: '970'
-  currency: 
+  currency: ILS
+  currency_symbol: ₪
   international_prefix: '00'
   ioc: PLE
   latitude: ''
@@ -7556,6 +14123,40 @@ PS:
     nl: Palestijnse gebieden
     ru: Палестина
     ar: فلسطين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7584,6 +14185,7 @@ PT:
   alpha3: PRT
   country_code: '351'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: POR
   latitude: 39 30 N
@@ -7602,6 +14204,40 @@ PT:
     nl: Portugal
     ru: Португалия
     ar: البرتغال
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7622,6 +14258,7 @@ PW:
   alpha3: PLW
   country_code: '680'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   ioc: PLW
   latitude: 7 30 N
@@ -7639,6 +14276,41 @@ PW:
     ja: パラオ
     nl: Palau
     ru: Палау
+    ar: بالاو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7658,6 +14330,7 @@ PY:
   alpha3: PRY
   country_code: '595'
   currency: PYG
+  currency_symbol: Gs
   international_prefix: '002'
   ioc: PAR
   latitude: 23 00 S
@@ -7676,6 +14349,40 @@ PY:
     nl: Paraguay
     ru: Парагвай
     ar: الباراغوي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7703,6 +14410,7 @@ QA:
   alpha3: QAT
   country_code: '974'
   currency: QAR
+  currency_symbol: ﷼
   international_prefix: '00'
   ioc: QAT
   latitude: 25 30 N
@@ -7722,6 +14430,40 @@ QA:
     nl: Qatar
     ru: Катар
     ar: قطر
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7741,6 +14483,7 @@ RE:
   alpha3: REU
   country_code: '262'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: 
   latitude: ''
@@ -7759,6 +14502,41 @@ RE:
     ja: レユニオン
     nl: Réunion
     ru: Реюньон
+    ar: روينيون
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7785,6 +14563,7 @@ RO:
   alpha3: ROU
   country_code: '40'
   currency: RON
+  currency_symbol: lei
   international_prefix: '00'
   ioc: ROU
   latitude: 46 00 N
@@ -7806,6 +14585,41 @@ RO:
     ja: ルーマニア
     nl: Roemenië
     ru: Румыния
+    ar: رومانيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7826,6 +14640,7 @@ RS:
   alpha3: SRB
   country_code: '381'
   currency: RSD
+  currency_symbol: Дин.
   international_prefix: '99'
   ioc: SRB
   latitude: 44 00 N
@@ -7846,6 +14661,41 @@ RS:
     ja: セルビア
     nl: Servië
     ru: Сербия
+    ar: صربيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7872,6 +14722,7 @@ RU:
   alpha3: RUS
   country_code: '7'
   currency: RUB
+  currency_symbol: руб
   international_prefix: '810'
   ioc: RUS
   latitude: 60 00 N
@@ -7895,6 +14746,40 @@ RU:
     ja: ロシア連邦
     nl: Rusland
     ar: روسيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -7914,6 +14799,7 @@ RW:
   alpha3: RWA
   country_code: '250'
   currency: RWF
+  currency_symbol: FRw
   international_prefix: '00'
   ioc: RWA
   latitude: 2 00 S
@@ -7933,6 +14819,40 @@ RW:
     nl: Rwanda
     ru: Руанда
     ar: رواندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -7944,8 +14864,8 @@ RW:
   subregion: Eastern Africa
   un_locode: RW
   languages:
-  - rw
   - en
+  - rw
   - fr
   nationality: Rwandan
   postal_code: false
@@ -7962,6 +14882,7 @@ SA:
   alpha3: SAU
   country_code: '966'
   currency: SAR
+  currency_symbol: ﷼
   international_prefix: '00'
   ioc: KSA
   latitude: 25 00 N
@@ -7984,6 +14905,40 @@ SA:
     nl: Saoedi-Arabië
     ru: Саудовская Аравия
     ar: السعودية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8004,6 +14959,7 @@ SB:
   alpha3: SLB
   country_code: '677'
   currency: SBD
+  currency_symbol: $
   international_prefix: '00'
   ioc: SOL
   latitude: 8 00 S
@@ -8025,6 +14981,41 @@ SB:
     ja: ソロモン諸島
     nl: Salomonseilanden
     ru: Соломон Исланд
+    ar: جزر سليمان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8044,6 +15035,7 @@ SC:
   alpha3: SYC
   country_code: '248'
   currency: SCR
+  currency_symbol: Rs
   international_prefix: '00'
   ioc: SEY
   latitude: 4 35 S
@@ -8062,6 +15054,41 @@ SC:
     ja: セーシェル
     nl: Seychellen
     ru: Сейшельские острова
+    ar: سيشل
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8082,6 +15109,7 @@ SD:
   alpha3: SDN
   country_code: '249'
   currency: SDG
+  currency_symbol: ج.س.‏
   international_prefix: '00'
   ioc: SUD
   latitude: 15 00 N
@@ -8103,6 +15131,40 @@ SD:
     nl: Soedan
     ru: Судан
     ar: السودان
+    az: 
+    bg: 
+    bs: 
+    ca:
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8130,6 +15192,7 @@ SE:
   alpha3: SWE
   country_code: '46'
   currency: SEK
+  currency_symbol: kr
   international_prefix: '00'
   ioc: SWE
   latitude: 62 00 N
@@ -8152,6 +15215,40 @@ SE:
     nl: Zweden
     ru: Швеция
     ar: السويد
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8179,6 +15276,7 @@ SG:
   alpha3: SGP
   country_code: '65'
   currency: SGD
+  currency_symbol: $
   international_prefix: '001'
   ioc: SIN
   latitude: 1 22 N
@@ -8199,6 +15297,40 @@ SG:
     nl: Singapore
     ru: Сингапур
     ar: سنغافورا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8221,6 +15353,7 @@ SH:
   alpha3: SHN
   country_code: '290'
   currency: SHP
+  currency_symbol: £
   international_prefix: '00'
   ioc: 
   latitude: 15 57 S
@@ -8242,6 +15375,41 @@ SH:
     ja: セントヘレナ・アセンションおよびトリスタンダクーニャ
     nl: Sint-Helena
     ru: Остров Святой Елены
+    ar: سانت هيلنا
+    az: 
+    bg: 
+    bs: 
+    ca:
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8268,6 +15436,7 @@ SI:
   alpha3: SVN
   country_code: '386'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: SLO
   latitude: 46 07 N
@@ -8290,6 +15459,40 @@ SI:
     nl: Slovenië
     ru: Словения
     ar: سلوفينيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8310,6 +15513,7 @@ SJ:
   alpha3: SJM
   country_code: '47'
   currency: NOK
+  currency_symbol: kr
   international_prefix: '00'
   ioc: 
   latitude: 78 00 N
@@ -8331,6 +15535,41 @@ SJ:
     ja: スヴァールバル諸島およびヤンマイエン島
     nl: Svalbard en Jan Mayen
     ru: Шпицберген и Ян-Майен
+    ar: سفالبارد وجان مايان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8357,6 +15596,7 @@ SK:
   alpha3: SVK
   country_code: '421'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: SVK
   latitude: 48 40 N
@@ -8379,6 +15619,40 @@ SK:
     nl: Slowakije
     ru: Словакия
     ar: سلوفاكيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8399,6 +15673,7 @@ SL:
   alpha3: SLE
   country_code: '232'
   currency: SLL
+  currency_symbol: Le
   international_prefix: '00'
   ioc: SLE
   latitude: 8 30 N
@@ -8416,6 +15691,41 @@ SL:
     ja: シエラレオネ
     nl: Sierra Leone
     ru: Сьерра-Леоне
+    ar: سيراليون
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8435,6 +15745,7 @@ SM:
   alpha3: SMR
   country_code: '378'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc: SMR
   latitude: 43 46 N
@@ -8453,6 +15764,41 @@ SM:
     ja: サンマリノ
     nl: San Marino
     ru: Сан-Марино
+    ar: سان مارينو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8475,6 +15821,7 @@ SN:
   alpha3: SEN
   country_code: '221'
   currency: XOF
+  currency_symbol: CFA
   international_prefix: '00'
   ioc: SEN
   latitude: 14 00 N
@@ -8493,6 +15840,41 @@ SN:
     ja: セネガル
     nl: Senegal
     ru: Сенегал
+    ar: السنغال
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8512,6 +15894,7 @@ SO:
   alpha3: SOM
   country_code: '252'
   currency: SOS
+  currency_symbol: S
   international_prefix: '00'
   ioc: SOM
   latitude: 10 00 N
@@ -8531,6 +15914,40 @@ SO:
     nl: Somalië
     ru: Сомали
     ar: الصومال
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8542,8 +15959,8 @@ SO:
   subregion: Eastern Africa
   un_locode: SO
   languages:
-  - so
   - ar
+  - so
   nationality: Somali
   postal_code: false
 SR:
@@ -8552,6 +15969,7 @@ SR:
   alpha3: SUR
   country_code: '597'
   currency: SRD
+  currency_symbol: $
   international_prefix: '00'
   ioc: SUR
   latitude: 4 00 N
@@ -8570,6 +15988,41 @@ SR:
     ja: スリナム
     nl: Suriname
     ru: Суринам
+    ar: سورينام
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8588,7 +16041,8 @@ SS:
   alpha2: SS
   alpha3: SSD
   country_code: '211'
-  currency: SSP
+  currency: SDG
+  currency_symbol: ج.س.‏
   international_prefix: '0'
   latitude: 7 00 N
   longitude: 30 00 E
@@ -8608,6 +16062,40 @@ SS:
     nl: Zuid-Soedan
     ru: Южный Судан
     ar: جنوب السودان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8627,6 +16115,7 @@ ST:
   alpha3: STP
   country_code: '239'
   currency: STD
+  currency_symbol: Db
   international_prefix: '00'
   ioc: STP
   latitude: 1 00 N
@@ -8648,6 +16137,41 @@ ST:
     ja: サントメ・プリンシペ
     nl: Sao Tomé en Principe
     ru: Сан-томе и Принсипи
+    ar: ساو تومي وبرينسيبي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8668,6 +16192,7 @@ SV:
   alpha3: SLV
   country_code: '503'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   ioc: ESA
   latitude: 13 50 N
@@ -8686,6 +16211,41 @@ SV:
     ja: エルサルバドル
     nl: El Salvador
     ru: Эль-Сальвадор
+    ar: السلفادور
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8705,6 +16265,7 @@ SX:
   alpha3: SXM
   country_code: '1'
   currency: ANG
+  currency_symbol: NAƒ
   international_prefix: '011'
   latitude: ''
   longitude: ''
@@ -8718,6 +16279,41 @@ SX:
     ja: セント・マーチン島
     nl: Sint Maarten
     ru: Синт-Мартен
+    ar: سينت مارتن
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -8745,6 +16341,7 @@ SY:
   alpha3: SYR
   country_code: '963'
   currency: SYP
+  currency_symbol: £
   international_prefix: '00'
   ioc: SYR
   latitude: 35 00 N
@@ -8767,6 +16364,40 @@ SY:
     nl: Syrië
     ru: Сирия
     ar: سوريا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8787,6 +16418,7 @@ SZ:
   alpha3: SWZ
   country_code: '268'
   currency: SZL
+  currency_symbol: L
   international_prefix: '00'
   ioc: SWZ
   latitude: 26 30 S
@@ -8806,6 +16438,41 @@ SZ:
     ja: スワジランド
     nl: Swaziland
     ru: Свазиленд
+    ar: سوازيلاند
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8826,6 +16493,7 @@ TC:
   alpha3: TCA
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: 
   latitude: 21 45 N
@@ -8847,6 +16515,41 @@ TC:
     ja: タークス・カイコス諸島
     nl: Turks- en Caicoseilanden
     ru: О - ва Теркс и Кайкос
+    ar: جزر الترك وجايكوس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -8866,6 +16569,7 @@ TD:
   alpha3: TCD
   country_code: '235'
   currency: XAF
+  currency_symbol: FCFA
   international_prefix: '15'
   ioc: CHA
   latitude: 15 00 N
@@ -8887,6 +16591,40 @@ TD:
     nl: Tsjaad
     ru: Чад
     ar: تشاد
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8907,6 +16645,7 @@ TF:
   alpha3: ATF
   country_code: ''
   currency: EUR
+  currency_symbol: €
   international_prefix: ''
   ioc: 
   latitude: ''
@@ -8928,6 +16667,41 @@ TF:
     ja: フランス領南方・南極地域
     nl: Franse Gebieden in de zuidelijke Indische Oceaan
     ru: Французские южные и АНТАРКТИЧЕСКИЕ территории
+    ar: المقاطعات الجنوبية الفرنسية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -8945,6 +16719,7 @@ TG:
   alpha3: TGO
   country_code: '228'
   currency: XOF
+  currency_symbol: CFA
   international_prefix: '00'
   ioc: TOG
   latitude: 8 00 N
@@ -8963,6 +16738,40 @@ TG:
     nl: Togo
     ru: Того
     ar: تورو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -8982,6 +16791,7 @@ TH:
   alpha3: THA
   country_code: '66'
   currency: THB
+  currency_symbol: ฿
   international_prefix: '001'
   ioc: THA
   latitude: 15 00 N
@@ -9002,6 +16812,40 @@ TH:
     nl: Thailand
     ru: Таиланд
     ar: ثايلاند
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9023,6 +16867,7 @@ TJ:
   alt_currency: RUB
   country_code: '992'
   currency: TJS
+  currency_symbol: ЅМ
   international_prefix: '810'
   ioc: TJK
   latitude: 39 00 N
@@ -9044,6 +16889,40 @@ TJ:
     nl: Tadzjikistan
     ru: Таджикистан
     ar: طاجسكتان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9054,8 +16933,8 @@ TJ:
   subregion: Central Asia
   un_locode: TJ
   languages:
-  - tg
   - ru
+  - tg
   nationality: Tadzhik
   postal_code: true
 TK:
@@ -9064,6 +16943,7 @@ TK:
   alpha3: TKL
   country_code: '690'
   currency: NZD
+  currency_symbol: $
   international_prefix: '00'
   ioc: 
   latitude: 9 00 S
@@ -9083,6 +16963,41 @@ TK:
     ja: トケラウ
     nl: Tokelau
     ru: Токелау
+    ar: توكيلو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9102,6 +17017,7 @@ TL:
   alpha3: TLS
   country_code: '670'
   currency: IDR
+  currency_symbol: Rp
   international_prefix: None
   ioc: TLS
   latitude: 8 50 S
@@ -9123,6 +17039,41 @@ TL:
     ja: 東ティモール
     nl: Oost-Timor
     ru: Тимор-Лешти
+    ar: تيمور الشرقية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9141,7 +17092,8 @@ TM:
   alpha2: TM
   alpha3: TKM
   country_code: '993'
-  currency: 
+  currency: TMT
+  currency_symbol: T
   international_prefix: '810'
   ioc: TKM
   latitude: 40 00 N
@@ -9162,6 +17114,40 @@ TM:
     nl: Turkmenistan
     ru: Туркменистан
     ar: تركمنستان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9172,8 +17158,8 @@ TM:
   subregion: Central Asia
   un_locode: TM
   languages:
-  - tk
   - ru
+  - tk
   nationality: Turkmen
   postal_code: true
 TN:
@@ -9182,6 +17168,7 @@ TN:
   alpha3: TUN
   country_code: '216'
   currency: TND
+  currency_symbol: 	د.ت 
   international_prefix: '00'
   ioc: TUN
   latitude: 34 00 N
@@ -9204,6 +17191,40 @@ TN:
     nl: Tunesië
     ru: Тунис
     ar: تونس
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9224,6 +17245,7 @@ TO:
   alpha3: TON
   country_code: '676'
   currency: TOP
+  currency_symbol: T$
   international_prefix: '00'
   ioc: TGA
   latitude: 20 00 S
@@ -9242,6 +17264,40 @@ TO:
     nl: Tonga
     ru: Тонга
     ar: تونغا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9271,6 +17327,7 @@ TR:
   alpha3: TUR
   country_code: '90'
   currency: TRY
+  currency_symbol: TL
   international_prefix: '00'
   ioc: TUR
   latitude: 39 00 N
@@ -9293,6 +17350,40 @@ TR:
     nl: Turkije
     ru: Турция
     ar: تركيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9312,6 +17403,7 @@ TT:
   alpha3: TTO
   country_code: '1'
   currency: TTD
+  currency_symbol: $
   international_prefix: '011'
   ioc: TRI
   latitude: 11 00 N
@@ -9334,6 +17426,40 @@ TT:
     nl: Trinidad en Tobago
     ru: Тринидад и Тобаго
     ar: ترينيداد وتوباغو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9353,6 +17479,7 @@ TV:
   alpha3: TUV
   country_code: '688'
   currency: TVD
+  currency_symbol: TV$
   international_prefix: '00'
   ioc: TUV
   latitude: 8 00 S
@@ -9370,6 +17497,41 @@ TV:
     ja: ツバル
     nl: Tuvalu
     ru: Тувалу
+    ar: توفالو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9396,6 +17558,7 @@ TW:
   alpha3: TWN
   country_code: '886'
   currency: TWD
+  currency_symbol: NT$
   international_prefix: '002'
   ioc: TPE
   latitude: 23 30 N
@@ -9415,6 +17578,40 @@ TW:
     nl: Taiwan
     ru: Тайвань
     ar: تايوان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9426,7 +17623,7 @@ TW:
   subregion: Eastern Asia
   un_locode: TW
   languages:
-  - zh
+  - zh-TW
   nationality: Taiwanese
   postal_code: true
 TZ:
@@ -9435,6 +17632,7 @@ TZ:
   alpha3: TZA
   country_code: '255'
   currency: TZS
+  currency_symbol: x/y
   international_prefix: '000'
   ioc: TAN
   latitude: 6 00 S
@@ -9455,6 +17653,40 @@ TZ:
     nl: Tanzania
     ru: Танзания
     ar: تنزانيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9465,8 +17697,8 @@ TZ:
   subregion: Eastern Africa
   un_locode: TZ
   languages:
-  - sw
   - en
+  - sw
   nationality: Tanzanian
   postal_code: false
 UA:
@@ -9484,6 +17716,7 @@ UA:
   alpha3: UKR
   country_code: '380'
   currency: UAH
+  currency_symbol: ₴
   international_prefix: '810'
   ioc: UKR
   latitude: 49 00 N
@@ -9506,6 +17739,40 @@ UA:
     nl: Oekraïne
     ru: Украина
     ar: اوكرانيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9526,6 +17793,7 @@ UG:
   alpha3: UGA
   country_code: '256'
   currency: UGX
+  currency_symbol: USh
   international_prefix: '000'
   ioc: UGA
   latitude: 1 00 N
@@ -9544,6 +17812,41 @@ UG:
     ja: ウガンダ
     nl: Oeganda
     ru: Уганда
+    ar: أوغندا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9564,6 +17867,7 @@ UM:
   alpha3: UMI
   country_code: ''
   currency: USD
+  currency_symbol: $
   international_prefix: ''
   ioc: 
   latitude: ''
@@ -9585,6 +17889,41 @@ UM:
     ja: 合衆国領有小離島
     nl: Kleine afgelegen eilanden van de Verenigde Staten
     ru: Американская территорий
+    ar: جزر الولايات المتحدة النائية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ''
@@ -9609,6 +17948,7 @@ US:
   alpha3: USA
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: USA
   latitude: 38 00 N
@@ -9631,6 +17971,40 @@ US:
     nl: Verenigde Staten
     ru: Соединенные Штаты Америки
     ar: الولايات المتحدة الامريكية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9650,6 +18024,7 @@ UY:
   alpha3: URY
   country_code: '598'
   currency: UYU
+  currency_symbol: $U
   international_prefix: '00'
   ioc: URU
   latitude: 33 00 S
@@ -9668,6 +18043,40 @@ UY:
     nl: Uruguay
     ru: Уругвай
     ar: الاورغوي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9688,6 +18097,7 @@ UZ:
   alpha3: UZB
   country_code: '998'
   currency: UZS
+  currency_symbol: лв
   international_prefix: '810'
   ioc: UZB
   latitude: 41 00 N
@@ -9710,6 +18120,40 @@ UZ:
     nl: Oezbekistan
     ru: Узбекистан
     ar: اوزبكستان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9720,8 +18164,8 @@ UZ:
   subregion: Central Asia
   un_locode: UZ
   languages:
-  - uz
   - ru
+  - uz
   nationality: Uzbekistani
   postal_code: true
 VA:
@@ -9730,6 +18174,7 @@ VA:
   alpha3: VAT
   country_code: '39'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc:
   latitude: 41 54 N
@@ -9752,6 +18197,40 @@ VA:
     nl: Vaticaanstad
     ru: Ватикан
     ar: الفاتيكان
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9772,6 +18251,7 @@ VC:
   alpha3: VCT
   country_code: '1'
   currency: XCD
+  currency_symbol: $
   international_prefix: '011'
   ioc: VIN
   latitude: 13 15 N
@@ -9793,6 +18273,41 @@ VC:
     ja: セントビンセントおよびグレナディーン諸島
     nl: Saint Vincent en de Grenadines
     ru: Сент-Винсент и Гренадины
+    ar: سانت فنسنت وغرنادين
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9812,6 +18327,7 @@ VE:
   alpha3: VEN
   country_code: '58'
   currency: VEF
+  currency_symbol: Bs
   international_prefix: '00'
   ioc: VEN
   latitude: 8 00 N
@@ -9829,6 +18345,41 @@ VE:
     ja: ベネズエラ・ボリバル共和国
     nl: Venezuela
     ru: Венесуэла
+    ar: فنزويلا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9848,6 +18399,7 @@ VG:
   alpha3: VGB
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: IVB
   latitude: ''
@@ -9869,6 +18421,41 @@ VG:
     ja: イギリス領ヴァージン諸島
     nl: Britse Maagdeneilanden
     ru: Британские Виргинские Острова
+    ar: جزر فرجين البريطانية
+    az: 
+    bg: 
+    bs: 
+    ca:
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9888,6 +18475,7 @@ VI:
   alpha3: VIR
   country_code: '1'
   currency: USD
+  currency_symbol: $
   international_prefix: '011'
   ioc: ISV
   latitude: ''
@@ -9909,6 +18497,41 @@ VI:
     ja: アメリカ領ヴァージン諸島
     nl: Amerikaanse Maagdeneilanden
     ru: Виргинские Острова, США
+    ar: جزر فرجين الأمريكية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -9928,6 +18551,7 @@ VN:
   alpha3: VNM
   country_code: '84'
   currency: VND
+  currency_symbol: ₫
   international_prefix: '00'
   ioc: VIE
   latitude: 16 10 N
@@ -9945,6 +18569,41 @@ VN:
     ja: ベトナム
     nl: Vietnam
     ru: Вьетнам
+    ar: فيتنام
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9966,7 +18625,8 @@ VU:
   alpha2: VU
   alpha3: VUT
   country_code: '678'
-  currency:
+  currency: VUV
+  currency_symbol: VT
   international_prefix: '00'
   ioc: VAN
   latitude: 16 00 S
@@ -9984,6 +18644,41 @@ VU:
     ja: バヌアツ
     nl: Vanuatu
     ru: Вануату
+    ar: فانواتو
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -9996,8 +18691,8 @@ VU:
   subregion: Melanesia
   un_locode: VU
   languages:
-  - bi
   - en
+  - bi
   - fr
   nationality: Ni-Vanuatu
   postal_code: false
@@ -10007,6 +18702,7 @@ WF:
   alpha3: WLF
   country_code: '681'
   currency: XPF
+  currency_symbol: F
   international_prefix: '19'
   ioc:
   latitude: 13 18 S
@@ -10028,6 +18724,41 @@ WF:
     ja: ウォリス・フツナ
     nl: Wallis en Futuna
     ru: Уоллис и Футуна
+    ar: جزر والس وفوتونا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10047,6 +18778,7 @@ WS:
   alpha3: WSM
   country_code: '685'
   currency: USD
+  currency_symbol: $
   international_prefix: '00'
   ioc: SAM
   latitude: 13 35 S
@@ -10064,6 +18796,41 @@ WS:
     ja: サモア
     nl: Samoa
     ru: Самоа
+    ar: ساموا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10075,8 +18842,8 @@ WS:
   subregion: Polynesia
   un_locode: WS
   languages:
-  - sm
   - en
+  - sm
   nationality: Samoan
   postal_code: true
 YE:
@@ -10092,6 +18859,7 @@ YE:
   alpha3: YEM
   country_code: '967'
   currency: YER
+  currency_symbol: ﷼
   international_prefix: '00'
   ioc: YEM
   latitude: 15 00 N
@@ -10111,6 +18879,41 @@ YE:
     ja: イエメン
     nl: Jemen
     ru: Йемен
+    ar: اليمن
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10132,6 +18935,7 @@ YT:
   alpha3: MYT
   country_code: '262'
   currency: EUR
+  currency_symbol: €
   international_prefix: '00'
   ioc:
   latitude: 12 50 S
@@ -10149,6 +18953,41 @@ YT:
     ja: マヨット
     nl: Mayotte
     ru: Майотта
+    ar: مايوت
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10179,6 +19018,7 @@ ZA:
   alpha3: ZAF
   country_code: '27'
   currency: ZAR
+  currency_symbol: R
   international_prefix: 09
   ioc: RSA
   latitude: 29 00 S
@@ -10201,6 +19041,40 @@ ZA:
     nl: Zuid-Afrika
     ru: Республика Южная Африка
     ar: افريقيا الجنوبية
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10229,6 +19103,7 @@ ZM:
   alpha3: ZMB
   country_code: '260'
   currency: ZMK
+  currency_symbol: ZMK
   international_prefix: '00'
   ioc: ZAM
   latitude: 15 00 S
@@ -10249,6 +19124,40 @@ ZM:
     nl: Zambia
     ru: Замбия
     ar: زامبيا
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -10268,6 +19177,7 @@ ZW:
   alpha3: ZWE
   country_code: '263'
   currency: ZWD
+  currency_symbol: Z$
   international_prefix: '00'
   ioc: ZIM
   latitude: 20 00 S
@@ -10288,6 +19198,40 @@ ZW:
     nl: Zimbabwe
     ru: Зимбабве
     ar: زمبابوي
+    az: 
+    bg: 
+    bs: 
+    ca: 
+    cs: 
+    da: 
+    el: 
+    et: 
+    fi: 
+    hi: 
+    hr: 
+    hu: 
+    id: 
+    ka: 
+    ko: 
+    lt: 
+    lv: 
+    mk: 
+    ms: 
+    no: 
+    pl: 
+    pt: 
+    ro: 
+    sk: 
+    sl: 
+    sq: 
+    sr: 
+    sv: 
+    th: 
+    tr: 
+    uk: 
+    vi: 
+    zh-CN: 
+    zh-TW: 
   national_destination_code_lengths:
   - 2
   national_number_lengths:
