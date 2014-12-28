@@ -68,8 +68,8 @@ AD:
   - 9
   national_prefix: None
   number: '020'
-  region: '100'
-  subregion: '104'
+  region: Europe
+  subregion: Southern Europe
   un_locode: AD
   languages:
   - ca
@@ -1643,7 +1643,7 @@ BF:
   alpha3: BFA
   country_code: '226'
   currency: XOF
-  currency_symbol: franc
+  currency_symbol: CFA
   international_prefix: '00'
   ioc: BUR
   latitude: 13 00 N
