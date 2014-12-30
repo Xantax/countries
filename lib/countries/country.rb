@@ -10,6 +10,7 @@ class ISO3166::Country
     :alpha2,
     :alpha3,
     :currency,
+    :currency_symbol,
     :name,
     :names,
     :translations,
